@@ -1,0 +1,49 @@
+ATP_W65$QKEY
+## unique identifier 
+
+ATP_W65$INTERVIEW_START_W65
+## start time of survey
+
+ATP_W65$INTERVIEW_END_W65
+## End time of survey 
+
+ATP_W65$DEVICE_TYPE_W65
+## 1=laptop, 2= Smartphone, 3=Tablet, 4=SmartTV 5= None of the above
+
+ATP_W65$LANG_W65
+## language of response: 1= English, 2=Spanish
+
+ATP_W65$FORM_W65
+## form assignment ? ? 
+
+ATP_W65$SATIS_W65
+## Q: All in all, are you satisfied or dissatisfied with the way things are going in this country today? 
+## A: 1= Satisfied, 2= dissatisfied, 3= refused to answer
+
+ATP_W65$POL1DT_W65
+## Q: Do you approve or disapprove of the way Donald Trump is handling his job as  president?
+## A: 1= Approve, 2=Disapprove, 99= refused
+
+ATP_W65$POL1DTSTR_W65 
+## Q: Do you [above answer, approve or disapprove] of the way Donald Trump is handling his job as president…
+## A: 1= strongly, 2= not so strongly, 99= refused
+
+ATP_W65$PELOSIAPP_W65
+## Q:Do you approve or disapprove of the way Nancy Pelosi is handling her job as Speaker of the House?
+## A: 1=Approve, 2=Disapprove, 99= refused
+
+ATP_W65$MCCONNELLAPP_W65
+## Q: MCCONNELLAPP_W65. Do you approve or disapprove of the way Mitch McConnell is handling his job as Senate Majority leader?
+## A: 1=Approve, 2=Disapprove, 99= refused
+
+ATP_W65$DIVISIONSRD_W65
+## Q: Do you think divisions between Republicans and Democrats in this country today are…
+## A: 1= increasing, 2= decreasing, 3= staying the same, 99= refused
+
+ATP_W65$GOVFEEL_W65
+## Q: Some people say they are basically content with the federal government, others say they are frustrated, and others say they are angry. Which of these best describes how you feel?
+## A: 1= basically content, 2= frustrated, 3= angry, 99= refused
+
+ATP_W65$TRUSTFEDGOV_W65 
+##Q: How much of the time do you think you can trust the federal government to do what is right?
+##A: 1= just about always, 2= most of the time, 3= only some of the time, 4- never, 99. 
